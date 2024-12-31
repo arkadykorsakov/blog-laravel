@@ -24,7 +24,7 @@
 
 1. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/ваш-репозиторий/blog-rest-api.git
+   git clone https://github.com/arkadykorsakov/blog-rest-api.git
    ```
 
 2. Перейдите в директорию проекта:
